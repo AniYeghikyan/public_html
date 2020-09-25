@@ -19,11 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f1cd8d2-8bf3-4a2e-85d2-ca103a644247" name="Default Changelist" comment="commit Vilgar">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2f1cd8d2-8bf3-4a2e-85d2-ca103a644247" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/products/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/products/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +202,7 @@
       <workItem from="1600937517291" duration="7538000" />
       <workItem from="1600957139182" duration="2896000" />
       <workItem from="1600965254780" duration="2649000" />
-      <workItem from="1601046244407" duration="3653000" />
+      <workItem from="1601046244407" duration="3806000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1601048023482</created>
@@ -228,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601048855317</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit Vilgar">
+      <created>1601050285670</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601050285670</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,10 +259,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit Vilgar" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="93" key="CommitChangelistDialog2" timestamp="1601050065385">
+    <state x="585" y="93" key="CommitChangelistDialog2" timestamp="1601050284550">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="585" y="93" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1601050065385" />
+    <state x="585" y="93" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1601050284550" />
     <state x="643" y="435" key="NewPhpFileDialog" timestamp="1600958032484">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -267,10 +271,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1600938293887" />
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1601048858108">
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1601050287441">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601048858108" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601050287441" />
     <state x="739" y="369" key="cloudConfig.PluginsDialog" timestamp="1601046264455">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
