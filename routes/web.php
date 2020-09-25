@@ -17,7 +17,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('products', 'ProductController@index')->name('products.index');
+Route::get('/products', 'App\Http\Controllers\ProductController@index')->name('product.index');
 
 Route::get('products/create-step-one', 'ProductController@createStepOne')->name('products.create.step.one');
 Route::post('products/create-step-one', 'ProductController@postCreateStepOne')->name('products.create.step.one.post');
